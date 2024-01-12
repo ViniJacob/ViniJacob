@@ -1,4 +1,4 @@
-# Olá, sou Vinícius R. Jacob 👋
+# Olá, sou Vini Jacob 👋
 👨‍💻 Atualmente trabalho e estudo como desenvolvedor Front-End.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v.r_jacob/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![LinkedIn](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vinijacob1?lang=pt-BR) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vini_jacob?si=fc52c0f2c80e4104) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/o_banshee/)
